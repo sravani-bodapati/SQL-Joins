@@ -1,6 +1,7 @@
 # SQL-Joins
 
 Objective
+create customers table
 Learn how to combine data from multiple tables using SQL join types: INNER JOIN, LEFT JOIN, and RIGHT JOIN.
 
 Tools
